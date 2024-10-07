@@ -1,0 +1,13 @@
+bin\Debug\Ultrasonic Test.exe
+bin\Debug\Ultrasonic Test.pdb
+bin\Debug\Ultrasonic Test.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+obj\Debug\Ultrasonic Test.vbproj.GenerateResource.Cache
+obj\Debug\Ultrasonic Test.exe
+obj\Debug\Ultrasonic Test.xml
+obj\Debug\Ultrasonic Test.pdb
+bin\Debug\Interop.VBIDE.dll
+obj\Debug\Interop.VBIDE.dll
+obj\Debug\Ultrasonic Test.vbproj.ResolveComReference.cache
